@@ -42,12 +42,11 @@ Once the connection was made, the following visualizations were created:
 A histogram to visualize the most common salary ranges for employees.
 A bar chart of average salary by title.
 
-Files Included
-EmployeeSQL folder:
-ERD_PH_Employees_db.png - image of the entity relationship diagram
-Table_Schema.sql - file containing the schema needed to create database tables
-Data_Analysis.sql - file containing all database queries performed
-Bonus_SQL - jupyter notebook containing database visualizations. Note: the SQL Alchemy database connection will require the pgAdmin username and password to connect. These were saved in a config.py file, which was not uploaded to this repository. To replicate this, the user would need to create a config.py file, stored in the same folder as the jupyter notebook file, with the following format:
-username = "your pgAdmin username"
+Files Included:
 
+Employee_ERD.png - image of the entity relationship diagram
+Employee_Schema_Sql.sql - file containing the schema needed to create database tables
+employee_sql.sql - file containing all database queries performed
+Employee.ipynb - jupyter notebook containing database visualizations. Note: the SQL Alchemy database connection will require the pgAdmin username and password to connect. These were saved in a config.py file, which was not uploaded to this repository. To replicate this, the user would need to create a config.py file, stored in the same folder as the jupyter notebook file, with the following format:
+username = "your pgAdmin username"
 password = "your pgAdmin password"
