@@ -1,4 +1,5 @@
-# sql-challenge
+#nOrganization-of-Employee-data-at-Pewlett-Hackard
+
 
 
 This project  was to create a database to organize employee data from the 1980s and 1990s at Pewlett Hackard( a fictitious company). Once the database was created, queries were performed to gain insights into the data.
